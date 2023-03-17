@@ -1,10 +1,10 @@
-
 # BS Project (ECS 412) - IISERB(2022)
 
 This project studies the working principles and methods of the hash functions MD5 and BLAKE-256. MD5 hash function is not cryptographically secure now, it has already been broken and is used only for local integrity checks and other simple tasks, but it is a great example to understand the concept of hash functions. Here, MD5 hash functions i implemented to generate hash digests for any given strings. Also, DES block cipher was implemented alongside the two hash functions for an understanding of differential attacks later on. The repositories of codes are linked below.
 
 ## Work done and repositories
 
+- Implementation of MD5 hash function: [Repository](https://github.com/ajaycc17/md5-hash-function).
 - Implementation of DES block cipher algorithm: [Repository](https://github.com/ajaycc17/des-algorithm).
 - Implementation of BLAKE-256 hash function: [Repository](https://github.com/ajaycc17/blake-256).
 - Implementation of BLAKE2s hash function: [Repository](https://github.com/ajaycc17/blake2s).
